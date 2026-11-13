@@ -1,0 +1,6 @@
+# Large single-cell & multi-omic data files
+data/
+results/*.rds
+*.h5
+*.h5ad
+*.tsv.gz
